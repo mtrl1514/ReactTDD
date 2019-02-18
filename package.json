@@ -1,0 +1,9 @@
+{
+    "name": "react-tdd",
+    "version": "0.1.0",
+    "description": "TDDing a React app",
+    "main": "index.js",
+    "repository": "https://github.com/mtrl1514/ReactTDD.git",
+    "author": "LEE KWANG HEE mtrl1514@gmail.com",
+    "license": "Apache-2.0"
+}
