@@ -5,5 +5,15 @@
     "main": "index.js",
     "repository": "https://github.com/mtrl1514/ReactTDD.git",
     "author": "LEE KWANG HEE mtrl1514@gmail.com",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "scripts": {
+        "start": "parcel index.html"
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.11.0"
+    },
+    "dependencies": {
+        "react": "^16.8.2",
+        "react-dom": "^16.8.2"
+    }
 }
