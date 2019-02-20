@@ -2,7 +2,7 @@
 yarn.lock
 dist/
 .cache/
-
+doc/~*
 
 .DS_STORE
 node_modules
