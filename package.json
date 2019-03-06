@@ -33,6 +33,7 @@
         "parcel-bundler": "^1.11.0"
     },
     "dependencies": {
+        "blob-util": "^2.0.2",
         "react": "^16.8.2",
         "react-dom": "^16.8.2"
     },
